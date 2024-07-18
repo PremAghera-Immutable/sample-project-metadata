@@ -11,15 +11,15 @@
     "attributes": [
       {
         "trait_type": "Hat",
-        "value": "Top Hat"
+        "value": "Green"
       },
       {
         "trait_type": "Coat",
-        "value": "Tails"
+        "value": "Fur"
       },
       {
         "trait_type": "Neck",
-        "value": "Bow Tie"
+        "value": "Long"
       }
     ]
   }
